@@ -127,7 +127,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/26/2017 19:48:20</publishTime>
     </File>
     <File Include="Default.html">
-      <publishTime>01/28/2017 17:16:53</publishTime>
+      <publishTime>01/29/2017 15:09:15</publishTime>
     </File>
     <File Include="djLogin.htm">
       <publishTime>01/26/2017 18:29:30</publishTime>
@@ -181,7 +181,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/25/2017 17:05:52</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/28/2017 17:41:01</publishTime>
+      <publishTime>01/29/2017 15:26:40</publishTime>
     </File>
   </ItemGroup>
 </Project>
