@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+     <script type="text/javascript">
+         function OpenChat() {
+
+         
+        var dj = location.search.split('dj=')[1]
+        if (dj.length > 0) {
+            window.open("http://chat.radiopoverty.com?dj=" + dj, "_blank", "width=600,height=500,scrollbars=yes,toolbar=no,directories=no,status=no,menubar=no,location=no'");
+        } else {
+            window.open("http://chat.radiopoverty.com?", "_blank", "width=600,height=500,scrollbars=yes,toolbar=no,directories=no,status=no,menubar=no,location=no'");
+        }
+         }
+
+    </script>
+<body onload="OpenChat()">
+   
+</body>
+</html>
